@@ -1,0 +1,61 @@
+.App {
+  margin: 20px;
+}
+
+.SignUp p {
+    margin: 21px 0;
+    color: #733B73;
+}
+
+.SignUp p.radio label{
+  color: black;
+  cursor: pointer;
+}
+
+.SignUp input, .SignUp select{
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.SignUp h1 {
+  color: #733B73;
+}
+
+.SignUp h3 {
+  color: purple;
+}
+
+.SignUp h5 {
+  color: black;
+}
+
+.SignUp .checkbox {
+  color: purple;
+  cursor: pointer;
+}
+
+.SignUp .checkbox input[type="checkbox"] {
+  margin: 10px 0;
+  margin-right: 10px;
+}
+
+.SignUp button {
+  background-color: #733B73;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.SignUp button:hover {
+  background-color: #c9b9c9;
+  color: #733B73;
+}
+
+.SignUp .error {
+  color: rgb(226, 111, 111);
+  font-size: 12px;
+  margin-top: 5px;
+}
